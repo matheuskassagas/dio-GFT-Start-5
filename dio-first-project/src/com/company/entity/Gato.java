@@ -4,9 +4,9 @@ import java.util.Objects;
 
 public class Gato {
 
-    public String name;
-    public String color;
-    public Integer age;
+    private String name;
+    private String color;
+    private Integer age;
 
     public Gato() {
     }

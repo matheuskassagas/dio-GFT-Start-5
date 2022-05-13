@@ -24,8 +24,8 @@ public class Main {
 }
 
 class Livro {
-    public String name;
-    public Integer numberPage;
+    private String name;
+    private Integer numberPage;
 
     public Livro() {
     }
